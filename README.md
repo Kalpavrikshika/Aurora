@@ -1,4 +1,7 @@
-# Python Unit Testing 
+# Python Unit Testing  
+ 
+[![Travis](https://img.shields.io/travis/Kalpavrikshika/Aurora.svg?style=for-the-badge)](https://travis-ci.org/Kalpavrikshika/Aurora)
+
  
 1. Installing `pytest` 
 
