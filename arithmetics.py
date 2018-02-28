@@ -17,5 +17,9 @@ class Arithmetics:
     def division(self, a, b):
         self.a = a
         self.b = b
-        return (self.a / self.b)
+        return (self.a / self.b) 
+    def square(self, a):   
+        self.a = a 
+        return(self.a * self.a) 
+       
  
