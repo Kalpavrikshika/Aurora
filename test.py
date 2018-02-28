@@ -15,4 +15,8 @@ def test_multiplication():
 
 def test_division():
     divide = app.division(10, 5)
-    assert 2 == divide
+    assert 2 == divide 
+     
+def test_square(): 
+    square = app.square(8) 
+    assert 64 == square     
