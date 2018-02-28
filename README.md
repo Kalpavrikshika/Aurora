@@ -7,7 +7,14 @@
 
 ```bash
 $ pip install -U pytest
-```  
+```   
+> For Python 3 use the command  
+
+ ```bash 
+  $ pip3 install -U pytest 
+```
+ 
+
 2. Checking `pytest` version 
 
 ```bash 
